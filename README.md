@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there... :D 👋
 - 🔭 I’m currently working on DevOPs CI/CD Automation and Quality Metrics
 - 🌱 I’m currently learning Terraform
 - 👯 I’m looking to collaborate on open-source projects
